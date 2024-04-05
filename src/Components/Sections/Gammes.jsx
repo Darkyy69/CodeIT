@@ -8,7 +8,7 @@ const Gammes = () => {
   const AppMobile = "Explorez notre service d'Application Mobile spécialisé dans le GPS & la Localisation, offrant des solutions innovantes pour répondre à vos besoins en matière de géolocalisation. Que ce soit pour la navigation, le suivi de flotte ou la gestion de livraisons, notre application mobile utilise les dernières technologies pour fournir une précision et une fiabilité optimales, vous permettant ainsi de tirer le meilleur parti de la localisation dans vos opérations commerciales."
   const VitrineDynamique = "Plongez dans une expérience dynamique avec notre service de Vitrine Dynamique, dotée d'une interface d'administration intuitive qui vous permet de personnaliser votre vitrine en ligne selon vos préférences. Oubliez les vitrines statiques et offrez à vos clients une expérience engageante et personnalisée, grâce à une interface admin conviviale qui vous donne le contrôle total sur l'apparence et le contenu de votre vitrine virtuelle."
   return (
-    <section id='gammes' className='flex flex-col gap-5  py-32'>
+    <section id='gammes' className='flex flex-col gap-5  pt-32'>
       
         <h2 class="text-3xl text-left sm:text-4xl font-bold dark:text-white">Découvrez<br/>Nos Gammes</h2>
 

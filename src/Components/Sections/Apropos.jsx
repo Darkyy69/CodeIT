@@ -2,7 +2,7 @@ import React from 'react'
 
 const Apropos = () => {
   return (
-    <section id='apropos' className='py-32'>
+    <section id='apropos' className='pt-32'>
 
       
       <h2 class="text-3xl sm:text-4xl font-bold dark:text-white">Nous Sommes</h2>

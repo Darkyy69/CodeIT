@@ -12,7 +12,7 @@ const Prqnous = () => {
   const card3 = { img: svgimg, title: 'Partenariat à long terme', description: "Nous ne considérons pas nos clients comme de simples transactions. Chez CodeIT, nous nous engageons à établir des partenariats à long terme avec nos clients, en offrant un soutien continu et des solutions évolutives pour répondre à vos besoins changeants." }
 
   return (
-    <section id='prqnous' className='flex gap-5 flex-col justify-center items-center py-32'>
+    <section id='prqnous' className='flex gap-5 flex-col justify-center items-center pt-32'>
       
     <HorizontalCardWithImage img={card1.img} title={card1.title} description={card1.description} />
     <HorizontalCardWithImage img={card2.img} title={card2.title} description={card2.description} />
