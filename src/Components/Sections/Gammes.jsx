@@ -1,9 +1,9 @@
 import React from 'react'
 import CardWithImage from '../Re_usable/CardWithImage'
-import AppWebPersoImg from '../../assets/Products/CustomAppWeb/2149416723.jpg'
-import AppWebStandardImg from '../../assets/Products/StandardAppWeb/system-content-management-seo-application-graphic-concept.jpg'
-import AppMobileImg from '../../assets/Products/AppMobile/image_processing20191203-28073-1uu5zgh.png'
-import VitrineImg from '../../assets/Products/VitrineDynamique/15433732_Home_Garden_lp.jpg'
+import AppWebPersoImg from '../../assets/Products/CustomAppWeb/customappweb1.jpg'
+import AppWebStandardImg from '../../assets/Products/StandardAppWeb/standardappweb1.jpg'
+import AppMobileImg from '../../assets/Products/AppMobile/appmobile5.png'
+import VitrineImg from '../../assets/Products/VitrineDynamique/vitrine4.jpg'
 
 const Gammes = () => {
   const AppWebPerso = "Nous concevons des solutions digitales adaptées à vos besoins spécifiques. Avec une expertise technique pointue et une approche centrée sur le client, nous vous garantissons des applications web uniques et performantes, répondant parfaitement à vos exigences."

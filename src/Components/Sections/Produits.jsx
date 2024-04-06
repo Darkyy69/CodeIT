@@ -39,18 +39,18 @@ const Produits = () => {
 }
 
 // Example image data
-import appWebCustom1 from '../../assets/Products/CustomAppWeb/2149416723.jpg'
-import appWebCustom2 from '../../assets/Products/CustomAppWeb/2149880622.jpg'
-import appWebCustom3 from '../../assets/Products/CustomAppWeb/2149416723.jpg'
-import appWebStandard1 from '../../assets/Products/StandardAppWeb/system-content-management-seo-application-graphic-concept.jpg'
-import appWebStandard2 from '../../assets/Products/StandardAppWeb/system-content-management-seo-application-graphic-concept.jpg'
-import appWebStandard3 from '../../assets/Products/StandardAppWeb/system-content-management-seo-application-graphic-concept.jpg'
-import appMobile1 from '../../assets/Products/AppMobile/6504278_3306378.jpg'
-import appMobile2 from '../../assets/Products/AppMobile/6600325_3317788.jpg'
-import appMobile3 from '../../assets/Products/AppMobile/image_processing20191203-28073-1uu5zgh.png'
-import vitrineDynamique1 from '../../assets/Products/VitrineDynamique/34006760_8134117.jpg'
-import vitrineDynamique2 from '../../assets/Products/VitrineDynamique/15433732_Home_Garden_lp.jpg'
-import vitrineDynamique3 from '../../assets/Products/VitrineDynamique/8968580_4040374.jpg'
+import appWebCustom1 from '../../assets/Products/CustomAppWeb/customappweb1.jpg'
+import appWebCustom2 from '../../assets/Products/CustomAppWeb/customappweb2.jpg'
+import appWebCustom3 from '../../assets/Products/CustomAppWeb/customappweb1.jpg'
+import appWebStandard1 from '../../assets/Products/StandardAppWeb/standardappweb1.jpg'
+import appWebStandard2 from '../../assets/Products/StandardAppWeb/standardappweb1.jpg'
+import appWebStandard3 from '../../assets/Products/StandardAppWeb/standardappweb1.jpg'
+import appMobile1 from '../../assets/Products/AppMobile/appmobile1.jpg'
+import appMobile2 from '../../assets/Products/AppMobile/appmobile1.jpg'
+import appMobile3 from '../../assets/Products/AppMobile/appmobile5.png'
+import vitrineDynamique1 from '../../assets/Products/VitrineDynamique/vitrine2.jpg'
+import vitrineDynamique2 from '../../assets/Products/VitrineDynamique/vitrine4.jpg'
+import vitrineDynamique3 from '../../assets/Products/VitrineDynamique/vitrine1.jpg'
 
 const images = [
   { id: 'vitrine-dynamique-1', src: vitrineDynamique1 },
