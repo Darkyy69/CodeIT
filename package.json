@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://darkyy69.github.io/CodeIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://Darkyy69.github.io/CodeIT/",
   "dependencies": {
     "flowbite": "^2.3.0",
     "react": "^18.2.0",
